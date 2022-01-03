@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/richardlw/Desktop/CSC 2431/Wicaksono_final/Wicaksono_final.cpp
+iostream
+-
+queue
+-
+vector
+-
+
